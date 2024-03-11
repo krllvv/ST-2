@@ -1,6 +1,7 @@
 // Copyright 2024 Kirillov Maxim
 #include <gtest/gtest.h>
 #include <cstdint>
+#include <cmath>
 #include "../include/circle.h"
 #include "../include/tasks.h"
 
